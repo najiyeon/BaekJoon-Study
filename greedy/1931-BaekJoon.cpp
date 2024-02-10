@@ -1,3 +1,5 @@
+/* 백준 1931: 회의실 배정 */
+
 #include <iostream>
 #include <vector>
 #include <algorithm>

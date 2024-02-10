@@ -1,3 +1,5 @@
+/* 백준 20044: Project Teams */
+
 #include <iostream>
 #include <algorithm>
 

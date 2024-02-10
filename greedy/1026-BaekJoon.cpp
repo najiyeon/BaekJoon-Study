@@ -1,3 +1,5 @@
+/* 백준 1026: 보물 */
+
 #include <iostream>
 #include <algorithm>
 

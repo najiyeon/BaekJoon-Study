@@ -1,3 +1,5 @@
+/* 백준 1461: 도서관 */
+
 #include <iostream>
 #include <vector>
 #include <cstdlib>
